@@ -1,0 +1,3 @@
+node_modules/
+backend-sync/db.json
+backend-sync/serviceAccountKey.json
